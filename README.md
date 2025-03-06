@@ -143,7 +143,7 @@ fix/#32: 로그인 api 오류 수정
 ---
 ## 📁 Foldering Convention 📁
 ```markdown
-📦Archive
+📦Hari
 ┣ 📂App                    # 앱의 진입점 (AppDelegate, SceneDelegate)
 ┣ 📂Assets                 # 이미지 등을 효율적으로 관리하는 에셋 카탈로그
 ┣ 📂Models                 # 데이터 모델 폴더
